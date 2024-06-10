@@ -1,0 +1,17 @@
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\tModLoader.targets" />
+  <PropertyGroup>
+    <AssemblyName>QualityofPvP</AssemblyName>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Items\GetPosition.png" />
+    <None Remove="Items\SmartGunforNPC.png" />
+    <None Remove="Items\TesterBeg.png" />
+    <None Remove="Items\Tomeofthe EternalFlow .png" />
+    <None Remove="Projectiles\SmartBulletForNPC.png" />
+    <None Remove="QualityofPVPGore\BulletEjecting.png" />
+    <None Remove="To Do List.txt" />
+  </ItemGroup>
+</Project>

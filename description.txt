@@ -1,0 +1,11 @@
+这是一个开发中的模组，目的在于调整各种PvP中的问题，创造一个更平衡更方便调整的PvP环境。由于本人不是很精通于开发模组，开发过程往往是学习与实践并行，并可能伴随一些低级的可笑的错误，还请谅解。
+目前进度：
+新建人物以获得模组重做的所有物品
+包含大部分枪械，都增加了虚拟弹匣，音效重置，可以主动换弹,可在控件中自定义换弹键
+English Version(Discription):
+Attention:It's a mod that haven't been accomplished yet!!(about 10% or less has been accomplished? i guess)
+I'm making attempt to look for solutions to problems that PvP has.(OP weapons for example) And many other ideas of PvP are also taken into consideration.
+However, I'm a Chinese player that is not mastered in mod creating and English speaking. The process of creating a mod is much tougher than i used to think.Therefore i'm consistantly studying step by step while coding this mod, which really takes time.Bugs and errors are not rare. Sorry for the inconvenience.
+Content:
+Creat new players to get all items that this mod has overhauled,which including:
+A huge amount of guns,most of which are equipped with a virtual magazing and obtain new sound effects. They now can reloading by a customized key.
