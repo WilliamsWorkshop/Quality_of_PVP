@@ -1,0 +1,74 @@
+# This file will automatically update with entries for new content after a build and reload
+
+Items: {
+	黑大棒: {
+		DisplayName: 黑大棒
+		Tooltip:
+			'''
+			随手画出来的黑大棒
+			“你无敌了，我的孩子”
+			'''
+	}
+
+	ProwlerSMG: {
+		DisplayName: 猎兽冲锋枪
+		Tooltip: 五连发冲锋枪
+	}
+
+	TomeoftheEternalFlow: {
+		DisplayName: 万世流涌大典
+		Tooltip: ""
+	}
+
+	sbtest: {
+		DisplayName: sbtest
+		Tooltip: ""
+	}
+
+	PhenixKit: {
+		DisplayName: 凤凰治疗包
+		Tooltip:
+			'''
+			回复血量至生命上限
+			按住使用
+			10秒使用时间
+			'''
+	}
+
+	SmartGun: {
+		DisplayName: 智慧手枪（锁定玩家）
+		Tooltip:
+			'''
+			[c/00ff00:打出能够追踪玩家的弹药]
+			[c/00ff00:女士们，自动瞄准根本就是天方夜谭]
+			'''
+	}
+
+	SmartGunforNPC: {
+		DisplayName: 智慧手枪（锁定敌怪）
+		Tooltip:
+			'''
+			[c/00ff00:打出能够追踪敌怪的弹药]
+			[c/00ff00:女士们，自动瞄准根本就是天方夜谭]
+			'''
+	}
+
+	TesterBeg: {
+		DisplayName: 测试者物品袋
+		Tooltip: 右键打开
+	}
+
+	GetPosition: {
+		DisplayName: Get Position
+		Tooltip: 点击获取鼠标所在的世界坐标
+	}
+}
+
+Projectiles: {
+	blackstickProj.DisplayName: 黑大棒剑气
+	PhenixKitHoldOut.DisplayName: 凤凰治疗包
+	SmartBullet.DisplayName: 智慧子弹
+	SmartBulletForNPC.DisplayName: 智慧子弹
+}
+
+Keybinds.Reload.DisplayName: 重新装填

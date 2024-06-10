@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wVSCD28shCy5RR5R8rmVzmsXON4E4p1PSsN2vTyaKtzkH2HEqOA5/0ii4a6AvKCI1bUnMvk+fJYJmOCbPAvIaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jysxt\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\QualityofPvP\\QualityofPvP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jysxt\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
